@@ -1,0 +1,8 @@
+# Tested on an Apple M1 Pro (16 GB), macOS, Python 3.12
+mlx==0.32.4
+mlx-lm==0.32.2
+datasets==5.1.0
+huggingface-hub==2.2.0
+pandas==3.0.6
+pyarrow==26.0.0
+numpy==2.5.4

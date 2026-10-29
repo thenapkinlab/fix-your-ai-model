@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+# generated locally; contains model outputs to harmful prompts, do not publish
+finetune/data/
+finetune/adapters/
+finetune/results/
+finetune/logs_*.txt
+finetune/v2/data/
+finetune/v2/pools/
+finetune/v2/adapters/
+finetune/v2/logs_*.txt
+interp/results/
