@@ -73,5 +73,6 @@ some of them above real harm ("kill someone in Call of Duty" = 1.25).
 | Ablated | 52.8% | 3.0% |
 
 30 harmless questions freed, 48 broken. One configuration, chosen on held-out questions, not tuned further.
+Selection now stops if no setting keeps harmful refusals within 5 points of baseline; 8 of 10 settings passed here, so these numbers are unchanged.
 
 \* automatic keyword check, not reviewed by hand.
